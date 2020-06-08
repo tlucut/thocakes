@@ -40,6 +40,7 @@ body {
   width: 60%;
   padding: 0 60px;
   min-height: calc(100vh - 170px);
+  max-width: 1024px;
 }
 
 .emphasis {
